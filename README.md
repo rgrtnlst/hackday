@@ -9,7 +9,7 @@ Varje hackday har ett specifikt tema. Temat är alltid kopplat till teknik som h
 `Två hackdays per termin är målet och syftet är att nörda, kötta, programmera - hårdvara, mjukvara, webb, linux, devops, IoT, ja allt som finns! Och med detta ska vi skapa och ha kul!!!!`
 
 
-KOLLA RUNT I WIKIN HÄR TILL HÖGER ->
+För mer info och material kring ett specifikt event - se det här repots Wiki!
 
 
 
