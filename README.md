@@ -14,5 +14,10 @@ För mer info och material kring ett specifikt event - se det här repots Wiki!
 
 
 
+
+
+
+
+Hackday som fenomen är sprunget ur;  
 https://en.wikipedia.org/wiki/Hackathon  
 
